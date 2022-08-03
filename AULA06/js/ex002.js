@@ -1,0 +1,1 @@
+var nome = window.prompt("Qual é o seu nome?"); //mensagem com um prompt para responder à pergunta
